@@ -11,4 +11,4 @@ Para mais detalhes sobre, por favor entre em contato:
 Caso esteja interessado, deixo aqui o contato de meu amigo que fez o design do site. 
 
 Design by: Vitor Pio
-https://github.com/vitorpiosilva/
+https://github.com/piovitor
